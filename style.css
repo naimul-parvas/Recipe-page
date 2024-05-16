@@ -1,0 +1,98 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+   
+img{
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+*{
+  box-sizing: border-box;
+  
+  margin: 0;
+  padding: 0;
+  color: #685d5d;
+}
+h2{
+    font-family: "Young Serif", serif;
+}
+p{
+    font-size: 16px;
+}
+
+
+section{
+max-width: 1000px;
+margin: 0 auto;
+background-color: rgb(251, 255, 255);
+padding: 20px;
+}
+
+.name{
+    margin-top: 30px;
+   
+}
+h1{
+    margin-bottom: 50px;
+    font-family: "Young Serif", serif;
+     font-weight: 300;
+     font-size: 40px;
+    
+}
+h2{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: rgb(173, 98, 98);
+    font-weight: 400;
+}
+h3{
+    margin-top: 40px;
+    margin-bottom: 20px;  
+    font-family: "Young Serif", serif;
+    font-weight: 200;
+}
+b{
+    color: rgb(88, 81, 81);
+}
+p{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+li{
+    margin-left: 20px;}
+
+table{
+    width: 100%;
+}
+ tr td{
+border-bottom: 1px solid rgb(231, 220, 220);
+text-align: left;
+padding: 10px;
+   
+ }
+.bold{
+    color: rgb(99, 5, 5);
+    font-weight: 800;
+    font-size: medium;
+}
+.pirple{
+background: #fff2ff;
+padding:10px;
+border-radius: 30px;
+
+}
+
+
+@media(max-width:1050px){
+    body{
+        background-color: rgb(248, 240, 224);
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+   
+   
+    
+
+
